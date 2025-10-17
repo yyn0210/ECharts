@@ -2,7 +2,7 @@
 
 # 本项目短域名为 http://echarts.tk
 
-**当前版本3.0.0**
+**当前版本3.0.0.6-c**
 
 本项目是一个供Java开发使用的ECharts的开发包，主要目的是方便在Java中构造ECharts中可能用到的全部数据结构，如完整的结构Option。Option中的数据Series，包含Bar-柱状图，Line-折线图，Pie-饼图，Chord-和弦图等，支持ECharts中的所有图表。支持所有的Style类，如AreaStyle,ChordStyle,ItemStyle,LineStyle,LinkStyle等等。支持多种Data数据类型，一个通用的Data数据，以及PieData,MapData,ScatterData,KData等针对性的数据结构。  
 
@@ -20,17 +20,17 @@
 
 ```xml
 <dependency>
-  <groupId>com.github.abel533</groupId>
+  <groupId>com.janeluo</groupId>
   <artifactId>ECharts</artifactId>
-  <version>3.0.0</version>
+  <version>3.0.0.6-c</version>
 </dependency>
 ```
 
 ## 下载地址
 
-[ECharts-x.x.x.jar](http://mvnrepository.com/artifact/com.github.abel533/ECharts)
+[ECharts-x.x.x.jar](http://mvnrepository.com/artifact/com.janeluo/ECharts)
 
-[API文档-3.0.0](https://oss.sonatype.org/content/repositories/releases/com/github/abel533/ECharts/3.0.0/ECharts-3.0.0-javadoc.jar) 下载后解压即可
+[API文档-3.0.0.6-c](https://oss.sonatype.org/content/repositories/releases/com/janeluo/ECharts/3.0.0.6-c/ECharts-3.0.0.6-c-javadoc.jar) 下载后解压即可
 
 ## 项目支持
 
@@ -112,10 +112,6 @@
 ### 或
 ### 微信二维码
 ![微信二维码](http://www.mybatis.tk/weixinpay.png)
-
-## 感谢各位的支持~~
-
-- 宇哲 - ￥10 - 2016-03-15
 
 ## ECharts网址
 
